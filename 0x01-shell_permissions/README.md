@@ -1,1 +1,2 @@
-su : A script that switches the current user to the user betty
+
+su :: A script that switches the current user to the user betty
